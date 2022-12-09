@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670579040 source:c:\users\poyraz\documents\sites\ayaz\projeler\notdefteri\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+
