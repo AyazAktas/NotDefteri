@@ -89,7 +89,7 @@ bas :
 
 }
 
-void ac() /// AÇ KONTROL ET !
+void ac() /// Aï¿½ KONTROL ET !
 {
     char dosyaAdi[32];
     char ch;
@@ -202,6 +202,7 @@ int main()
 
         case 2:
             ac();
+            break;
 
         case 0:
             break;
